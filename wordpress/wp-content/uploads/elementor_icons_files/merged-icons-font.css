@@ -1,0 +1,63 @@
+i.eci { 
+display: block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+     }
+     .select2-container i.eci,
+     .elementor-icon-list-icon i.eci {
+       display: inline-block;
+     }
+     .elementor-icons-manager__tab__item__icon.eci {
+    font-size: 28px;
+}
+.elementor-icons-manager__tab-link i.eci {
+    display: inline-block;
+    font-size: 18px;
+}
+@font-face {
+ font-family: 'logos-programming';
+  src: url('fontello-c329f2aa.zip/fontello-c329f2aa/font/logos-programming.eot?1660565178');
+  src: url('fontello-c329f2aa.zip/fontello-c329f2aa/font/logos-programming.eot?1660565178#iefix') format('embedded-opentype'),
+       url('fontello-c329f2aa.zip/fontello-c329f2aa/font/logos-programming.woff2?1660565178') format('woff2'),
+       url('fontello-c329f2aa.zip/fontello-c329f2aa/font/logos-programming.woff?1660565178') format('woff'),
+       url('fontello-c329f2aa.zip/fontello-c329f2aa/font/logos-programming.ttf?1660565178') format('truetype'),
+       url('fontello-c329f2aa.zip/fontello-c329f2aa/font/logos-programming.svg?1660565178#logos-programming') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.logos-programming-c-::before { content: '\e801'; font-family: 'logos-programming'; }
+.eci.logos-programming-sql-logo::before { content: '\e802'; font-family: 'logos-programming'; }
+.eci.logos-programming-c-logo::before { content: '\e803'; font-family: 'logos-programming'; }
+
+
+@font-face {
+ font-family: 'logos-pinplay';
+  src: url('fontello-26683ac3.zip/fontello-26683ac3/font/logos-pinplay.eot?860798193');
+  src: url('fontello-26683ac3.zip/fontello-26683ac3/font/logos-pinplay.eot?860798193#iefix') format('embedded-opentype'),
+       url('fontello-26683ac3.zip/fontello-26683ac3/font/logos-pinplay.woff2?860798193') format('woff2'),
+       url('fontello-26683ac3.zip/fontello-26683ac3/font/logos-pinplay.woff?860798193') format('woff'),
+       url('fontello-26683ac3.zip/fontello-26683ac3/font/logos-pinplay.ttf?860798193') format('truetype'),
+       url('fontello-26683ac3.zip/fontello-26683ac3/font/logos-pinplay.svg?860798193#logos-pinplay') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.logos-pinplay-pinplay::before { content: '\e805'; font-family: 'logos-pinplay'; }
+
+
+@font-face {
+ font-family: 'logo-pi';
+  src: url('fontello-be3a1cbb.zip/fontello-be3a1cbb/font/logo-pi.eot?774080684');
+  src: url('fontello-be3a1cbb.zip/fontello-be3a1cbb/font/logo-pi.eot?774080684#iefix') format('embedded-opentype'),
+       url('fontello-be3a1cbb.zip/fontello-be3a1cbb/font/logo-pi.woff2?774080684') format('woff2'),
+       url('fontello-be3a1cbb.zip/fontello-be3a1cbb/font/logo-pi.woff?774080684') format('woff'),
+       url('fontello-be3a1cbb.zip/fontello-be3a1cbb/font/logo-pi.ttf?774080684') format('truetype'),
+       url('fontello-be3a1cbb.zip/fontello-be3a1cbb/font/logo-pi.svg?774080684#logo-pi') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.eci.logo-pi-logo-pi::before { content: '\e806'; font-family: 'logo-pi'; }
+
+
